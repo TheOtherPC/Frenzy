@@ -1,0 +1,3 @@
+[submodule "Frenzy/vendor/spdlog"]
+	path = Frenzy/vendor/spdlog
+	url = https://github.com/gabime/spdlog
