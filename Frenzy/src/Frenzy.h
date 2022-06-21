@@ -8,6 +8,7 @@
 
 #include "Frenzy/Application.h"
 #include "Frenzy/Log.h"
+#include "Frenzy/Core.h"
 
 #include "Frenzy/EntryPoint.h"
 

@@ -6,6 +6,8 @@
 #ifndef FRENZY_ENTRYPOINT_H
 #define FRENZY_ENTRYPOINT_H
 
+//#include "Log.h"
+
 extern Frenzy::Application* Frenzy::CreateApplication();
 
 int main(int argc, char** argv){

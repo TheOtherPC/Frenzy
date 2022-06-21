@@ -6,6 +6,8 @@
 #ifndef FRENZY_APPLICATION_H
 #define FRENZY_APPLICATION_H
 
+#include "Events/Event.h"
+
 
 namespace Frenzy {
     class Application {
